@@ -1,4 +1,3 @@
-
 function gotoTop() {
     window.scrollTo({top: 0, behavior: 'smooth'});
 }
@@ -165,5 +164,11 @@ $(document).ready(function () {
         if (e.key === 'Escape' && $('#caseLightbox').is(':visible')) {
             closeLightbox();
         }
+    });
+
+    // 確保 navbar-toggler 功能正常運作
+    $('.navbar-toggler').on('click', function () {
+        var target = $(this).data('target');
+        $(target).collapse('toggle');
     });
 });
