@@ -786,3 +786,155 @@
   }
 
 }
+
+/*====================================
+ 案例展示響應式樣式 - start
+====================================*/
+
+@media screen and (max-width: 991.98px){
+  .case-img {
+    height: 220px;
+  }
+  
+  .lightbox-content {
+    width: 95%;
+    padding: 10px;
+  }
+  
+  .lightbox-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .swiper-container-lightbox {
+    height: 50vh;
+  }
+  
+  .swiper-container-lightbox .swiper-slide img {
+    max-height: 50vh;
+  }
+  
+  .swiper-container-thumbs {
+    height: 100px;
+  }
+}
+
+@media screen and (max-width: 768.98px){
+  .case-img {
+    height: 200px;
+  }
+  
+  .case-name {
+    font-size: 16px;
+  }
+  
+  .lightbox-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .swiper-container-lightbox {
+    height: 45vh;
+  }
+  
+  .swiper-container-lightbox .swiper-slide img {
+    max-height: 45vh;
+  }
+  
+  .swiper-container-thumbs {
+    height: 80px;
+  }
+  
+  .lightbox-close {
+    font-size: 35px;
+    right: 15px;
+    top: 5px;
+  }
+}
+
+@media screen and (max-width: 575.98px){
+  .case-img {
+    height: 180px;
+  }
+  
+  .case-overlay-content h5 {
+    font-size: 18px;
+  }
+  
+  .case-overlay-content p {
+    font-size: 12px;
+  }
+  
+  .lightbox-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .swiper-container-lightbox {
+    height: 40vh;
+  }
+  
+  .swiper-container-lightbox .swiper-slide img {
+    max-height: 40vh;
+  }
+  
+  .swiper-container-thumbs {
+    height: 70px;
+  }
+  
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 414.98px){
+  .case-img {
+    height: 160px;
+  }
+  
+  .case-name {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .swiper-container-lightbox {
+    height: 35vh;
+  }
+  
+  .swiper-container-lightbox .swiper-slide img {
+    max-height: 35vh;
+  }
+  
+  .swiper-container-thumbs {
+    height: 60px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .case-img {
+    height: 150px;
+  }
+  
+  .lightbox-close {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .case-img {
+    height: 140px;
+  }
+  
+  .case-overlay-content h5 {
+    font-size: 16px;
+  }
+  
+  .case-name {
+    font-size: 13px;
+  }
+}
+
+/*====================================
+ 案例展示響應式樣式 - end
+====================================*/

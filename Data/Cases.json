@@ -1,0 +1,245 @@
+[
+    {
+        "id": "01",
+        "name": "佳墨",
+        "description": "Description of 佳墨", 
+        "Photos": [
+            {
+                "id": 1,
+                "path": "images/Cases/01/1.jpg",
+                "description": "Photo 1 of 佳墨 description"
+            },
+            {
+                "id": 2,
+                "path": "images/Cases/01/2.jpg",
+                "description": "Photo 2 of 佳墨 description"
+            },
+            {
+                "id": 3,
+                "path": "images/Cases/01/3.jpg",
+                "description": "Photo 3 of 佳墨 description"
+            },
+            {
+                "id": 4,
+                "path": "images/Cases/01/4.jpg",
+                "description": "Photo 4 of 佳墨 description"
+            },
+            {
+                "id": 5,
+                "path": "images/Cases/01/5.jpg",
+                "description": "Photo 5 of 佳墨 description"
+            },
+            {
+                "id": 6,
+                "path": "images/Cases/01/6.jpg",
+                "description": "Photo 6 of 佳墨 description"
+            },
+            {
+                "id": 7,
+                "path": "images/Cases/01/7.jpg",
+                "description": "Photo 7 of 佳墨 description"
+            },
+            {
+                "id": 8,
+                "path": "images/Cases/01/8.jpg",
+                "description": "Photo 8 of 佳墨 description"
+            },
+            {
+                "id": 9,
+                "path": "images/Cases/01/9.jpg",
+                "description": "Photo 9 of 佳墨 description"
+            },
+            {
+                "id": 10,
+                "path": "images/Cases/01/10.jpg",
+                "description": "Photo 10 of 佳墨 description"
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "name": "侑格站前之星",
+        "description": "Description of 侑格站前之星", 
+        "Photos": [
+            {
+                "id": 1,
+                "path": "images/Cases/02/1.jpg",
+                "description": "Photo 1 of 侑格站前之星 description"
+            },
+            {
+                "id": 2,
+                "path": "images/Cases/02/2.jpg",
+                "description": "Photo 2 of 侑格站前之星 description"
+            },
+            {
+                "id": 3,
+                "path": "images/Cases/02/3.jpg",
+                "description": "Photo 3 of 侑格站前之星 description"
+            },
+            {
+                "id": 4,
+                "path": "images/Cases/02/4.jpg",
+                "description": "Photo 4 of 侑格站前之星 description"
+            },
+            {
+                "id": 5,
+                "path": "images/Cases/02/5.jpg",
+                "description": "Photo 5 of 侑格站前之星 description"
+            },
+            {
+                "id": 6,
+                "path": "images/Cases/02/6.jpg",
+                "description": "Photo 6 of 侑格站前之星 description"
+            },
+            {
+                "id": 7,
+                "path": "images/Cases/02/7.jpg",
+                "description": "Photo 7 of 侑格站前之星 description"
+            },
+            {
+                "id": 8,
+                "path": "images/Cases/02/8.jpg",
+                "description": "Photo 8 of 侑格站前之星 description"
+            },
+            {
+                "id": 9,
+                "path": "images/Cases/02/9.jpg",
+                "description": "Photo 9 of 侑格站前之星 description"
+            },
+            {
+                "id": 10,
+                "path": "images/Cases/02/10.jpg",
+                "description": "Photo 10 of 侑格站前之星 description "
+            }
+        ]
+    },
+    {
+        "id": "03",
+        "name": "承恩東城",
+        "description": "Description of 承恩東城", 
+        "Photos": [
+            {
+                "id": 1,
+                "path": "images/Cases/03/DSC_6684.jpg",
+                "description": "Photo 1 of 承恩東城 description"
+            },
+            {
+                "id": 2,
+                "path": "images/Cases/03/DSC_6714.jpg",
+                "description": "Photo 2 of 承恩東城 description"
+            },
+            {
+                "id": 3,
+                "path": "images/Cases/03/DSC_6742.jpg",
+                "description": "Photo 3 of 承恩東城 description"
+            },
+            {
+                "id": 4,
+                "path": "images/Cases/03/DSC_6770.jpg",
+                "description": "Photo 4 of 承恩東城 description"
+            },
+            {
+                "id": 5,
+                "path": "images/Cases/03/DSC_6800.jpg",
+                "description": "Photo 5 of 承恩東城 description"
+            },
+            {
+                "id": 6,
+                "path": "images/Cases/03/DSC_6821.jpg",
+                "description": "Photo 6 of 承恩東城 description"
+            },
+            {
+                "id": 7,
+                "path": "images/Cases/03/DSC_6843.jpg",
+                "description": "Photo 7 of 承恩東城 description"
+            },
+            {
+                "id": 8,
+                "path": "images/Cases/03/DSC_6859.jpg",
+                "description": "Photo 8 of 承恩東城 description"
+            },
+            {
+                "id": 9,
+                "path": "images/Cases/03/DSC_6880.jpg",
+                "description": "Photo 9 of 承恩東城 description"
+            },
+            {
+                "id": 10,
+                "path": "images/Cases/03/DSC_6931.jpg",
+                "description": "Photo 10 of 承恩東城 description"
+            },
+            {
+                "id": 11,
+                "path": "images/Cases/03/DSC_6951.jpg",
+                "description": "Photo 11 of 承恩東城 description"
+            },
+            {
+                "id": 12,
+                "path": "images/Cases/03/DSC_6986.jpg",
+                "description": "Photo 12 of 承恩東城 description"
+            }
+        ]
+    },
+    {
+        "id": "04",
+        "name": "維也納藝術廣場大廈",
+        "description": "Description of 維也納藝術廣場大廈", 
+        "Photos": [
+            {
+                "id": 1,
+                "path": "images/Cases/04/1.jpg",
+                "description": "Photo 1 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 2,
+                "path": "images/Cases/04/2.jpg",
+                "description": "Photo 2 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 3,
+                "path": "images/Cases/04/3.jpg",
+                "description": "Photo 3 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 4,
+                "path": "images/Cases/04/4.jpg",
+                "description": "Photo 4 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 5,
+                "path": "images/Cases/04/5.jpg",
+                "description": "Photo 5 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 6,
+                "path": "images/Cases/04/6.jpg",
+                "description": "Photo 6 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 7,
+                "path": "images/Cases/04/7.jpg",
+                "description": "Photo 7 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 8,
+                "path": "images/Cases/04/8.jpg",
+                "description": "Photo 8 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 9,
+                "path": "images/Cases/04/9.jpg",
+                "description": "Photo 9 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 10,
+                "path": "images/Cases/04/10.jpg",
+                "description": "Photo 10 of 維也納藝術廣場大廈 description"
+            },
+            {
+                "id": 11,
+                "path": "images/Cases/04/11.jpg",
+                "description": "Photo 11 of 維也納藝術廣場大廈 description"
+            }
+        ]
+    }
+]
